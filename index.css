@@ -1,0 +1,21 @@
+
+a{
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.all{
+    margin-top: 200px;
+}
+h1{
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin-right: 10px;
+}

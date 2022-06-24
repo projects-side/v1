@@ -1,0 +1,21 @@
+.all{
+    text-align: center;
+}
+
+.btn{
+    color: white;
+    margin: 10px 0px;
+}
+
+h1,h2{
+    padding: 10px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}

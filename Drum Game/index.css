@@ -1,0 +1,50 @@
+.instruments{
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+body{
+    background-color: black;
+}
+
+h3{
+    color: white;
+    margin-left: 400px;
+    margin-top: 4px;
+}
+
+.listOfItems{
+    margin-left: 100px;
+    margin: 100px 150px;
+}
+
+.i0{
+    background-image: url("images/tom1.png");
+}
+.i1{
+    background-image: url("images/tom2.png");
+}
+.i2{
+    background-image: url("images/tom3.png");
+}
+.i3{
+    background-image: url("images/tom4.png");
+}
+.i4{
+    background-image: url("images/crash.png");
+}
+.i5{
+    background-image: url("images/kick.png");
+}
+.i6{
+    background-image: url("images/snare.png");
+}
+
+a{
+    text-decoration: none;
+}
+
+.home{
+    margin: 25px 0px 0px 25px;
+    display: relative;
+}
